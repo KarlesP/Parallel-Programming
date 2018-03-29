@@ -1,6 +1,15 @@
 # Parallel-Programming
-This is a repository for analyzing data using parallel programming and R
-The scripts named "parallel programming 1" and "parallel programming 2" are based on the exercises available at:http://www.r-exercises.com/
+Two simple and straight-forward scripts in R that use Parallel Programming, both threading a multi-core process. Both of them 
+were created so the R users would get an idea of parallel programming.
 
-Exercise for parallel programming 1: http://www.r-exercises.com/2017/07/06/parallel-computing-exercises-snowfall-part-1/
-Exercise for parallel programming 2: http://www.r-exercises.com/2017/07/13/parallel-computing-exercises-foreach-and-doparallel-part-2/ 
+## Built With
+
+* [R](https://www.r-project.org/) - The language used
+* [R studio](https://www.rstudio.com/) - The IDE
+
+## Authors
+
+* **KarlesP** - *Initial work* - [KarlesP](https://github.com/KarlesP)
+
+## Acknowledgments
+Source of Parallel programming 1 and Parallel programming 2 can be found [HERE](http://www.r-exercises.com/)
