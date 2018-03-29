@@ -2,9 +2,9 @@
 Two simple and straight-forward scripts in R that use Parallel Programming, both threading a multi-core process. Both of them 
 were created so the R users would get an idea of parallel programming.
 
-## About the files
+## About the scripts
 
-The files were built that way so you can compile a report after running the scripts.
+The scripts were built that way so you can compile a report after running the scripts.
 
 ## Built With
 
